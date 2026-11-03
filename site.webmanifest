@@ -1,0 +1,29 @@
+{
+  "name": "Süleyman Hacızadə | Sertifikatlar & Nailiyyətlər",
+  "short_name": "SuleimanCerts",
+  "description": "Süni İntellekt, Bioinformatika və Kompüter Elmləri üzrə 32 rəsmi təsdiqlənmiş beynəlxalq sertifikat.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "800x800",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

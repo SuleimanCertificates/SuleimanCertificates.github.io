@@ -1,4 +1,39 @@
+# ========================================================
+# 🤖 Robots.txt for Suleiman Certificates Showcase Portal
+# High-Priority Indexing Directives for Major Search Engines
+# ========================================================
+
 User-agent: *
 Allow: /
+Allow: /certificates/
+Allow: /categories/
+Allow: /*.pdf$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.svg$
 
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.svg$
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Canonical XML Sitemap
 Sitemap: https://suleimancertificates.github.io/sitemap.xml

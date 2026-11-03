@@ -1,201 +1,444 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main Showcase Hub -->
   <url>
     <loc>https://suleimancertificates.github.io/</loc>
-    <lastmod>2026-10-27</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/logo.png</image:loc>
+      <image:title>Suleiman Certificates Brand Emblem</image:title>
+      <image:caption>Official Brand Emblem for Suleiman Hajizadeh Certificates Portfolio</image:caption>
+    </image:image>
   </url>
+
+  <!-- Category: AI & Machine Learning -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-deep-learning</loc>
+    <loc>https://suleimancertificates.github.io/categories/ai/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Category: Bioinformatics & Health -->
+  <url>
+    <loc>https://suleimancertificates.github.io/categories/bio/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Category: Computer Science & IT -->
+  <url>
+    <loc>https://suleimancertificates.github.io/categories/cs/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Category: Data Science & Math -->
+  <url>
+    <loc>https://suleimancertificates.github.io/categories/data/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Category: Startups & Business -->
+  <url>
+    <loc>https://suleimancertificates.github.io/categories/business/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Category: Honors & Others -->
+  <url>
+    <loc>https://suleimancertificates.github.io/categories/other/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Certificate: Deep Learning Specialization (5 Courses) -->
+  <url>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-deep-learning/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/2gNHuv-Coursera-CRT7LW97WM9D_page-0001.jpg</image:loc>
+      <image:title>Deep Learning Specialization (5 Courses) Certificate</image:title>
+      <image:caption>Deep Learning Specialization (5 Courses) awarded by DeepLearning.AI / Coursera to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Machine Learning Specialization (3 Courses) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-machine-learning</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-machine-learning/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-M933NLUBY0VQ_page-0001.jpg</image:loc>
+      <image:title>Machine Learning Specialization (3 Courses) Certificate</image:title>
+      <image:caption>Machine Learning Specialization (3 Courses) awarded by Stanford Online &amp; DeepLearning.AI to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Mathematics for Machine Learning Specialization (3 Courses) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-math-ml</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-math-ml/</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-EBLRMHNKKDYK_page-0001.jpg</image:loc>
+      <image:title>Mathematics for Machine Learning Specialization (3 Courses) Certificate</image:title>
+      <image:caption>Mathematics for Machine Learning Specialization (3 Courses) awarded by Imperial College London to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Introduction to Modern AI -->
   <url>
-    <loc>https://suleimancertificates.github.io/#cisco-modern-ai</loc>
+    <loc>https://suleimancertificates.github.io/certificates/cisco-modern-ai/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Introduction_to_Modern_AI_certificate_suleyman-hacizade1-gmail-com_aaf985be-0653-4cd4-899c-e94ce9d24e79_page-0001.jpg</image:loc>
+      <image:title>Introduction to Modern AI Certificate</image:title>
+      <image:caption>Introduction to Modern AI awarded by Cisco Networking Academy &amp; IRIA (IDDA) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Bilimsel Araştırmalarda Yapay Zekâ Kullanımı -->
   <url>
-    <loc>https://suleimancertificates.github.io/#ai-scientific-research</loc>
+    <loc>https://suleimancertificates.github.io/certificates/ai-scientific-research/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/certificate-STE2026-170621145-Z00J-EKBG5.png</image:loc>
+      <image:title>Bilimsel Araştırmalarda Yapay Zekâ Kullanımı Certificate</image:title>
+      <image:caption>Bilimsel Araştırmalarda Yapay Zekâ Kullanımı awarded by Crossfield Society &amp; Stepwise Plus to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Modern Sağlık Sistemlerinde Yapay Zeka Paneli -->
   <url>
-    <loc>https://suleimancertificates.github.io/#ai-healthcare</loc>
+    <loc>https://suleimancertificates.github.io/certificates/ai-healthcare/</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/certificate-CRO2026-17051718-M4RY-DK528.png</image:loc>
+      <image:title>Modern Sağlık Sistemlerinde Yapay Zeka Paneli Certificate</image:title>
+      <image:caption>Modern Sağlık Sistemlerinde Yapay Zeka Paneli awarded by Crossfield Society Masterclass to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Mystery Sequence Identifier & BLAST Automation (RTP) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#rtp-blast-automation</loc>
+    <loc>https://suleimancertificates.github.io/certificates/rtp-blast-automation/</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Suleiman_Hajizadeh_RTP.png</image:loc>
+      <image:title>Mystery Sequence Identifier &amp; BLAST Automation (RTP) Certificate</image:title>
+      <image:caption>Mystery Sequence Identifier &amp; BLAST Automation (RTP) awarded by NEXAGEN (Decode The Future) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Biyoinformatiğe Giriş ve Omics Veri Yapıları -->
   <url>
-    <loc>https://suleimancertificates.github.io/#omics-certificate</loc>
+    <loc>https://suleimancertificates.github.io/certificates/omics-certificate/</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/certificate-STE2026-170517111-1UDL-1TGUS.png</image:loc>
+      <image:title>Biyoinformatiğe Giriş ve Omics Veri Yapıları Certificate</image:title>
+      <image:caption>Biyoinformatiğe Giriş ve Omics Veri Yapıları awarded by Solvien &amp; Stepwise Plus (Crossfield Society) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Biology Meets Programming: Bioinformatics for Beginners -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-bio-programming</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-bio-programming/</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-L9IHDBHAQ7FY_page-0001.jpg</image:loc>
+      <image:title>Biology Meets Programming: Bioinformatics for Beginners Certificate</image:title>
+      <image:caption>Biology Meets Programming: Bioinformatics for Beginners awarded by University of California San Diego (UC San Diego) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Fundamental Skills in Bioinformatics -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-bioinformatics-skills</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-bioinformatics-skills/</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-GRUZJD5WBB7J_page-0001.jpg</image:loc>
+      <image:title>Fundamental Skills in Bioinformatics Certificate</image:title>
+      <image:caption>Fundamental Skills in Bioinformatics awarded by King Abdullah University of Science and Technology (KAUST) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Forensic Science: DNA Analysis -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-cambridge-forensic-dna</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-cambridge-forensic-dna/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-KEU5X9UGUE7U_page-0001.jpg</image:loc>
+      <image:title>Forensic Science: DNA Analysis Certificate</image:title>
+      <image:caption>Forensic Science: DNA Analysis awarded by University of Cambridge (Continuing Education) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Chemical Biology -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-chemical-biology</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-chemical-biology/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-RLUE8YMZMDVB_page-0001.jpg</image:loc>
+      <image:title>Chemical Biology Certificate</image:title>
+      <image:caption>Chemical Biology awarded by Université de Genève (University of Geneva) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: NumPy for Biology -->
   <url>
-    <loc>https://suleimancertificates.github.io/#numpy-for-biology</loc>
+    <loc>https://suleimancertificates.github.io/certificates/numpy-for-biology/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/certificate-KP5VKJbMT7q.png</image:loc>
+      <image:title>NumPy for Biology Certificate</image:title>
+      <image:caption>NumPy for Biology awarded by Team Neuron Education to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Tibbi Müalicələrdə Genetikanın Rolu Konfransı -->
   <url>
-    <loc>https://suleimancertificates.github.io/#tibbi-genetika</loc>
+    <loc>https://suleimancertificates.github.io/certificates/tibbi-genetika/</loc>
     <lastmod>2022-03-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Tibbi-M%C3%BCalic%C9%99l%C9%99rd%C9%99-Genetikan%C4%B1n-Rolu.jpg</image:loc>
+      <image:title>Tibbi Müalicələrdə Genetikanın Rolu Konfransı Certificate</image:title>
+      <image:caption>Tibbi Müalicələrdə Genetikanın Rolu Konfransı awarded by Rhazes Global Genetics to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Certificate of Completion - Computer Science -->
   <url>
-    <loc>https://suleimancertificates.github.io/#holberton-cs-completion</loc>
+    <loc>https://suleimancertificates.github.io/certificates/holberton-cs-completion/</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Completion-of-Computer-Science.jpg</image:loc>
+      <image:title>Certificate of Completion - Computer Science Certificate</image:title>
+      <image:caption>Certificate of Completion - Computer Science awarded by Holberton School Baku to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Cisco Networking Basics -->
   <url>
-    <loc>https://suleimancertificates.github.io/#cisco-networking-basics</loc>
+    <loc>https://suleimancertificates.github.io/certificates/cisco-networking-basics/</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Networking_Basics_certificate_suleyman-hacizade1-gmail-com_a587dc6d-fbbd-49d9-9a53-b1f990c6d31c_page-0001.jpg</image:loc>
+      <image:title>Cisco Networking Basics Certificate</image:title>
+      <image:caption>Cisco Networking Basics awarded by Cisco Networking Academy to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Advanced Commands in Linux -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-linux</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-linux/</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-JH8IXQE31RTA_page-0001.jpg</image:loc>
+      <image:title>Advanced Commands in Linux Certificate</image:title>
+      <image:caption>Advanced Commands in Linux awarded by Coursera Project Network to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Holberton School Azerbaijan - Certificate of Appreciation -->
   <url>
-    <loc>https://suleimancertificates.github.io/#holberton-volunteer</loc>
+    <loc>https://suleimancertificates.github.io/certificates/holberton-volunteer/</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/suleiman-hajizadeh.jpg</image:loc>
+      <image:title>Holberton School Azerbaijan - Certificate of Appreciation Certificate</image:title>
+      <image:caption>Holberton School Azerbaijan - Certificate of Appreciation awarded by Holberton School Azerbaijan to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Career Day 2026 - Digital Medical Solutions & Holberton -->
   <url>
-    <loc>https://suleimancertificates.github.io/#holberton-career-day</loc>
+    <loc>https://suleimancertificates.github.io/certificates/holberton-career-day/</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Career-Day-2026-Holberton-School.jpg</image:loc>
+      <image:title>Career Day 2026 - Digital Medical Solutions &amp; Holberton Certificate</image:title>
+      <image:caption>Career Day 2026 - Digital Medical Solutions &amp; Holberton awarded by Digital Medical Solutions LLC &amp; Holberton School to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Data Analytics Essentials -->
   <url>
-    <loc>https://suleimancertificates.github.io/#cisco-data-analytics</loc>
+    <loc>https://suleimancertificates.github.io/certificates/cisco-data-analytics/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Data_Analytics_Essentials_certificate_suleyman-hacizade1-gmail-com_af8d9253-6383-4569-bb13-e92f32facd93_page-0001.jpg</image:loc>
+      <image:title>Data Analytics Essentials Certificate</image:title>
+      <image:caption>Data Analytics Essentials awarded by Cisco Networking Academy to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Introduction to Data Science -->
   <url>
-    <loc>https://suleimancertificates.github.io/#cisco-data-science</loc>
+    <loc>https://suleimancertificates.github.io/certificates/cisco-data-science/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Introduction_to_Data_Science_certificate_suleyman-hacizade1-gmail-com_2a5dc53a-0abd-44b3-a092-963d6af730a5_page-0001.jpg</image:loc>
+      <image:title>Introduction to Data Science Certificate</image:title>
+      <image:caption>Introduction to Data Science awarded by Cisco Networking Academy to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Algebra: Elementary to Advanced Specialization (3 Courses) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-algebra</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-algebra/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-TPJQN9OW683M_page-0001.jpg</image:loc>
+      <image:title>Algebra: Elementary to Advanced Specialization (3 Courses) Certificate</image:title>
+      <image:caption>Algebra: Elementary to Advanced Specialization (3 Courses) awarded by Johns Hopkins University to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Introduction to Entrepreneurship -->
   <url>
-    <loc>https://suleimancertificates.github.io/#sabah-academy-entrepreneurship</loc>
+    <loc>https://suleimancertificates.github.io/certificates/sabah-academy-entrepreneurship/</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Suleyman-Hajizada-Certificate.jpg</image:loc>
+      <image:title>Introduction to Entrepreneurship Certificate</image:title>
+      <image:caption>Introduction to Entrepreneurship awarded by SABAH.academy &amp; IE University Entrepreneurship Center to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Yaşıl Dünyanı Yarat ! 2 - Rəqəmsal Həllər Hakatonu -->
   <url>
-    <loc>https://suleimancertificates.github.io/#yasil-dunya-hackathon</loc>
+    <loc>https://suleimancertificates.github.io/certificates/yasil-dunya-hackathon/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Ya%C5%9F%C4%B1l-D%C3%BCnyan%C4%B1-Yarat!%202-R%C9%99q%C9%99msal-H%C9%99ll%C9%99r-Hakatonu.jpg</image:loc>
+      <image:title>Yaşıl Dünyanı Yarat ! 2 - Rəqəmsal Həllər Hakatonu Certificate</image:title>
+      <image:caption>Yaşıl Dünyanı Yarat ! 2 - Rəqəmsal Həllər Hakatonu awarded by ASAN xidmət &amp; IDEA İctimai Birliyi to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Fərqlənmə Sertifikatı - I Dərəcəli Məzun -->
   <url>
-    <loc>https://suleimancertificates.github.io/#bir-konullu-aeik-first-class</loc>
+    <loc>https://suleimancertificates.github.io/certificates/bir-konullu-aeik-first-class/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/S%C3%BCleyman-Hac%C4%B1zad%C9%99-Mehdi(sertifikat1).jpg</image:loc>
+      <image:title>Fərqlənmə Sertifikatı - I Dərəcəli Məzun Certificate</image:title>
+      <image:caption>Fərqlənmə Sertifikatı - I Dərəcəli Məzun awarded by &quot;Bir Könüllü&quot; Tələbələrin Əməkdaşlığı İB &amp; AEİK to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Effektiv Satışlar (24 saat, 10 modul) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#effektiv-satislar</loc>
+    <loc>https://suleimancertificates.github.io/certificates/effektiv-satislar/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Effektiv-Sat%C4%B1%C5%9Flar.jpg</image:loc>
+      <image:title>Effektiv Satışlar (24 saat, 10 modul) Certificate</image:title>
+      <image:caption>Effektiv Satışlar (24 saat, 10 modul) awarded by NOVO PHARM MMC to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Aptek Təşkilatlarında Etibarlı Satış Texnikaları I -->
   <url>
-    <loc>https://suleimancertificates.github.io/#aptek-satis-1</loc>
+    <loc>https://suleimancertificates.github.io/certificates/aptek-satis-1/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Aptek-t%C9%99%C5%9Fkilatlar%C4%B1nda-etibarl%C4%B1-sat%C4%B1%C5%9F-texnikalar%C4%B1.jpg</image:loc>
+      <image:title>Aptek Təşkilatlarında Etibarlı Satış Texnikaları I Certificate</image:title>
+      <image:caption>Aptek Təşkilatlarında Etibarlı Satış Texnikaları I awarded by Əczaçılar Klubu &amp; Servier Azərbaycan MMC to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Aptek Təşkilatlarında Effektiv Satış Texnikaları II -->
   <url>
-    <loc>https://suleimancertificates.github.io/#aptek-satis-2</loc>
+    <loc>https://suleimancertificates.github.io/certificates/aptek-satis-2/</loc>
     <lastmod>2021-07-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Aptek-t%C9%99%C5%9Fkilatlar%C4%B1nda-etibarl%C4%B1-sat%C4%B1%C5%9F-texnikalar%C4%B1-2-ci.jpg</image:loc>
+      <image:title>Aptek Təşkilatlarında Effektiv Satış Texnikaları II Certificate</image:title>
+      <image:caption>Aptek Təşkilatlarında Effektiv Satış Texnikaları II awarded by Əczaçılar Klubu &amp; Servier Azərbaycan MMC to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Hope International Model United Nations (IMUN) -->
   <url>
-    <loc>https://suleimancertificates.github.io/#un-hope-imun</loc>
+    <loc>https://suleimancertificates.github.io/certificates/un-hope-imun/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Ministry-of-Youth-and-Sport-of-the-Republic-of-Azerbaijan.jpg</image:loc>
+      <image:title>Hope International Model United Nations (IMUN) Certificate</image:title>
+      <image:caption>Hope International Model United Nations (IMUN) awarded by UN-Habitat, Gənclər və İdman Nazirliyi &amp; Hope IMUN to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Xudafərin Media Mərkəzi Təlim Sertifikatı -->
   <url>
-    <loc>https://suleimancertificates.github.io/#xudaferin-media</loc>
+    <loc>https://suleimancertificates.github.io/certificates/xudaferin-media/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Xudaf%C9%99rin-Media-M%C9%99rk%C9%99zi.jpg</image:loc>
+      <image:title>Xudafərin Media Mərkəzi Təlim Sertifikatı Certificate</image:title>
+      <image:caption>Xudafərin Media Mərkəzi Təlim Sertifikatı awarded by ATGTİ, Gənclər Fondu &amp; Xudafərin Media Mərkəzi to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Getting Started with Essay Writing -->
   <url>
-    <loc>https://suleimancertificates.github.io/#coursera-essay-writing</loc>
+    <loc>https://suleimancertificates.github.io/certificates/coursera-essay-writing/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/Coursera-6T03GD6M08BS_page-0001.jpg</image:loc>
+      <image:title>Getting Started with Essay Writing Certificate</image:title>
+      <image:caption>Getting Started with Essay Writing awarded by University of California, Irvine (UC Irvine) to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
+  <!-- Certificate: Vəftiz Haqqında Şəhadətnamə -->
   <url>
-    <loc>https://suleimancertificates.github.io/#veftiz-sehadetname</loc>
+    <loc>https://suleimancertificates.github.io/certificates/veftiz-sehadetname/</loc>
     <lastmod>2023-10-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/V%C9%99ftiz-Haqq%C4%B1nda-%C5%9E%C9%99had%C9%99tnam%C9%99.jpg</image:loc>
+      <image:title>Vəftiz Haqqında Şəhadətnamə Certificate</image:title>
+      <image:caption>Vəftiz Haqqında Şəhadətnamə awarded by Yeddinci Günün Adventistləri Dini İcması to Suleiman Hajizadeh</image:caption>
+    </image:image>
   </url>
 </urlset>
