@@ -1,7 +1,7 @@
 /**
  * SuleimanCertificates — Official Dataset (ES Module)
  * Auto-synced from SuleimanCertificates Data Vault.
- * Total Certificates: 32
+ * Total Certificates: 33
  */
 
 export const categories = [
@@ -804,6 +804,33 @@ export const certificates = [
     "tags": [
       "Personal Heritage",
       "Milestone"
+    ]
+  },
+  {
+    "id": "aegee-baki-borderless-opportunities",
+    "title": "Certificate of Participation — Borderless Opportunities",
+    "title_az": "İştirakçı Sertifikatı — Sərhədsiz Fürsətlər (AEGEE-Bakı)",
+    "issuer": "AEGEE-Bakı (Avropa Tələbələr Forumu) & Empower You",
+    "issuer_badge": "AEGEE-Bakı",
+    "instructor": "Rana Aghakishiyeva, Sabila Zeynalli & Ayan Aliyeva",
+    "category": "other",
+    "date": "2026-11-01",
+    "date_display": "01 Noyabr 2026",
+    "image": "AEGEE-Baki-Borderless-Opportunities.jpg",
+    "pdf": "AEGEE-Baki-Borderless-Opportunities.pdf",
+    "credential_id": "AEGEE-BAKI-2026-BO",
+    "verify_url": null,
+    "description": "Certificate of Participation awarded to Suleyman Hajizade for active engagement in the 'Borderless Opportunities' forum held on November 1, 2026, organized by Empower You, a working group of AEGEE-Bakı (European Students' Forum Baku).",
+    "description_az": "AEGEE-Bakı (Avropa Tələbələr Forumu-Bakı) İctimai Birliyinin 'Empower You' işçi qrupu tərəfindən 1 Noyabr 2026-cı il tarixində təşkil olunmuş 'Sərhədsiz Fürsətlər' layihəsində fəal iştirakına görə Süleyman Hacızadəyə təqdim edilmiş rəsmi iştirakçı sertifikatı.",
+    "tags": [
+      "AEGEE-Bakı",
+      "Empower You",
+      "Borderless Opportunities",
+      "Sərhədsiz Fürsətlər",
+      "Youth Forum",
+      "European Students Forum",
+      "Leadership",
+      "Networking"
     ]
   }
 ];

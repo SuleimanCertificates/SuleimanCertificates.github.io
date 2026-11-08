@@ -3,9 +3,9 @@
   <channel>
     <title>Süleyman Hacızadə — Rəsmi Sertifikatlar Portfeli</title>
     <link>https://suleimancertificates.github.io/</link>
-    <description>Süleyman Hacızadənin Süni İntellekt, Bioinformatika, Kompüter Elmləri və Məlumat Analitikası üzrə 32 rəsmi sertifikat və akkreditasiyaları.</description>
+    <description>Süleyman Hacızadənin Süni İntellekt, Bioinformatika, Kompüter Elmləri və Məlumat Analitikası üzrə 33 rəsmi sertifikat və akkreditasiyaları.</description>
     <language>az</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:52:22 GMT</lastBuildDate>
     <atom:link href="https://suleimancertificates.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -295,6 +295,15 @@
       <author>suleyman.hacizade1@gmail.com (Suleiman Hajizadeh)</author>
       <category>Honors &amp; Others</category>
       <description><![CDATA[Rəsmi qeydiyyatlı tarixi şəxsi şəhadətnamə. - Issuer: Yeddinci Günün Adventistləri Dini İcması - Credential ID: VEFTIZ-2023]]></description>
+    </item>
+    <item>
+      <title>Certificate of Participation — Borderless Opportunities</title>
+      <link>https://suleimancertificates.github.io/certificates/aegee-baki-borderless-opportunities/</link>
+      <guid>https://suleimancertificates.github.io/certificates/aegee-baki-borderless-opportunities/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <author>suleyman.hacizade1@gmail.com (Suleiman Hajizadeh)</author>
+      <category>Honors &amp; Others</category>
+      <description><![CDATA[Certificate of Participation awarded to Suleyman Hajizade for active engagement in the 'Borderless Opportunities' forum held on November 1, 2026, organized by Empower You, a working group of AEGEE-Bakı (European Students' Forum Baku). - Issuer: AEGEE-Bakı (Avropa Tələbələr Forumu) & Empower You - Credential ID: AEGEE-BAKI-2026-BO]]></description>
     </item>
   </channel>
 </rss>

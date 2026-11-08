@@ -5,7 +5,7 @@
   <!-- Main Showcase Hub -->
   <url>
     <loc>https://suleimancertificates.github.io/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -18,42 +18,42 @@
   <!-- Category: AI & Machine Learning -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/ai/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Category: Bioinformatics & Health -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/bio/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Category: Computer Science & IT -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/cs/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Category: Data Science & Math -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/data/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Category: Startups & Business -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/business/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Category: Honors & Others -->
   <url>
     <loc>https://suleimancertificates.github.io/categories/other/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -439,6 +439,18 @@
       <image:loc>https://suleimancertificates.github.io/V%C9%99ftiz-Haqq%C4%B1nda-%C5%9E%C9%99had%C9%99tnam%C9%99.jpg</image:loc>
       <image:title>Vəftiz Haqqında Şəhadətnamə Certificate</image:title>
       <image:caption>Vəftiz Haqqında Şəhadətnamə awarded by Yeddinci Günün Adventistləri Dini İcması to Suleiman Hajizadeh</image:caption>
+    </image:image>
+  </url>
+  <!-- Certificate: Certificate of Participation — Borderless Opportunities -->
+  <url>
+    <loc>https://suleimancertificates.github.io/certificates/aegee-baki-borderless-opportunities/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://suleimancertificates.github.io/AEGEE-Baki-Borderless-Opportunities.jpg</image:loc>
+      <image:title>Certificate of Participation — Borderless Opportunities Certificate</image:title>
+      <image:caption>Certificate of Participation — Borderless Opportunities awarded by AEGEE-Bakı (Avropa Tələbələr Forumu) &amp; Empower You to Suleiman Hajizadeh</image:caption>
     </image:image>
   </url>
 </urlset>
