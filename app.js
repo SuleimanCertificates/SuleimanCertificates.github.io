@@ -350,7 +350,7 @@ function renderCategoryPills() {
     btn.setAttribute('aria-selected', state.activeCategory === cat.id ? 'true' : 'false');
 
     const name = currentLang === 'az' ? cat.name_az : cat.name_en;
-    btn.innerHTML = `<span>${cat.icon}</span> <span>${name}</span> <span class="pill-count">${count}</span>`;
+    btn.innerHTML = `<span>${name}</span> <span class="pill-count">${count}</span>`;
 
     btn.addEventListener('click', () => {
       state.activeCategory = cat.id;
@@ -433,7 +433,7 @@ function renderGallery() {
   if (filtered.length === 0) {
     DOM.galleryContainer.innerHTML = `
       <div class="empty-state">
-        <div class="empty-icon">🔍</div>
+        <div class="empty-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>
         <h3 class="empty-title">${t.emptyTitle}</h3>
         <p class="empty-desc">${t.emptyDesc}</p>
         <button type="button" class="btn-pill" id="emptyResetBtn">${t.resetFilters}</button>
@@ -480,7 +480,7 @@ function createCertificateCard(cert, index, isTopPriority) {
     <div class="cert-thumb-wrap" tabindex="0" role="button" aria-label="${t.quickView}: ${title}">
       <div class="thumb-chips">
         <span class="chip-issuer">${cert.issuer_badge}</span>
-        <span class="chip-category chip-cat-${cert.category}">${getCategoryIcon(cert.category)} ${getCategoryName(cert.category, currentLang)}</span>
+        <span class="chip-category chip-cat-${cert.category}">${getCategoryName(cert.category, currentLang)}</span>
       </div>
       <img src="${cert.image}" alt="${title}" class="cert-thumb" ${imgAttr}>
       <div class="cert-overlay-hover">
@@ -609,7 +609,7 @@ function renderModalContent(cert) {
   if (DOM.modalBadges) {
     DOM.modalBadges.innerHTML = `
       <span class="chip-issuer">${cert.issuer_badge}</span>
-      <span class="chip-category chip-cat-${cert.category}">${getCategoryIcon(cert.category)} ${getCategoryName(cert.category, currentLang)}</span>
+      <span class="chip-category chip-cat-${cert.category}">${getCategoryName(cert.category, currentLang)}</span>
     `;
   }
 

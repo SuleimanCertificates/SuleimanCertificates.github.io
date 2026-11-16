@@ -1,5 +1,5 @@
 # ========================================================
-# 🤖 Robots.txt for Suleiman Certificates Showcase Portal
+# Robots.txt for Suleiman Certificates Showcase Portal
 # High-Priority Indexing Directives for Major Search Engines
 # ========================================================
 

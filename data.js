@@ -9,43 +9,43 @@ export const categories = [
     "id": "all",
     "name_az": "Bütün Sertifikatlar",
     "name_en": "All Certificates",
-    "icon": "🏆"
+    "icon": ""
   },
   {
     "id": "ai",
     "name_az": "Süni İntellekt & ML",
     "name_en": "AI & Machine Learning",
-    "icon": "🤖"
+    "icon": ""
   },
   {
     "id": "bio",
     "name_az": "Bioinformatika & Səhiyyə",
     "name_en": "Bioinformatics & Health",
-    "icon": "🧬"
+    "icon": ""
   },
   {
     "id": "cs",
     "name_az": "Kompüter Elmləri & İT",
     "name_en": "Computer Science & IT",
-    "icon": "💻"
+    "icon": ""
   },
   {
     "id": "data",
     "name_az": "Məlumat Elmləri & Riyaziyyat",
     "name_en": "Data Science & Math",
-    "icon": "📊"
+    "icon": ""
   },
   {
     "id": "business",
     "name_az": "Startap, Hakaton & Biznes",
     "name_en": "Startups & Business",
-    "icon": "🚀"
+    "icon": ""
   },
   {
     "id": "other",
     "name_az": "Fəxri & Digər",
     "name_en": "Honors & Others",
-    "icon": "🏛️"
+    "icon": ""
   }
 ];
 
