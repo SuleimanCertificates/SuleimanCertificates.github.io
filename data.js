@@ -1,7 +1,7 @@
 /**
  * SuleimanCertificates — Official Dataset (ES Module)
  * Auto-synced from SuleimanCertificates Data Vault.
- * Total Certificates: 33
+ * Total Certificates: 34
  */
 
 export const categories = [
@@ -50,6 +50,32 @@ export const categories = [
 ];
 
 export const certificates = [
+  {
+    "id": "nasa-space-apps-challenge-2026",
+    "title": "NASA Space Apps Challenge 2026 — Galactic Problem Solver",
+    "title_az": "NASA Space Apps Challenge 2026 — Qalaktik Problem Həlledicisi",
+    "issuer": "NASA International Space Apps Challenge",
+    "issuer_badge": "NASA Space Apps",
+    "instructor": "Marc Kuchner (Program Scientist, NASA Space Apps Challenge)",
+    "category": "business",
+    "date": "2026-11-15",
+    "date_display": "14–15 Noyabr 2026",
+    "image": "NASA-Space-Apps-Challenge-2026-Certificate.jpg",
+    "pdf": "NASA-Space-Apps-Challenge-2026-Certificate.pdf",
+    "credential_id": "NASA-SPACEAPPS-2026-GANJA-NURTUREAI",
+    "verify_url": "https://nurtureaispace.github.io",
+    "description": "Official Certificate of Participation and Galactic Problem Solver awarded by the 2026 NASA Space Apps Challenge for outstanding participation and efforts to address challenges we face on Earth and in space with Project NurtureAISpace.",
+    "description_az": "2026 NASA Beynəlxalq Space Apps Hakatonunda Yerdə və kosmosda qarşılaşdığımız qlobal çağırışların həlli üçün NurtureAISpace layihəsi ilə fəal və uğurlu iştiraka görə təqdim edilmiş rəsmi Qalaktik Problem Həlledicisi (Galactic Problem Solver) sertifikatı.",
+    "tags": [
+      "NASA",
+      "NASA Space Apps Challenge",
+      "Galactic Problem Solver",
+      "Hackathon",
+      "NurtureAISpace",
+      "Space Tech",
+      "Astronaut Health"
+    ]
+  },
   {
     "id": "coursera-deep-learning",
     "title": "Deep Learning Specialization (5 Courses)",
